@@ -7,4 +7,4 @@ Precision: eps = 0.000000001.
 $a_n a_{n - 1} \ldots a_0$
 [A; B)
 ### Output
-root$_0$ root$_1$ \ldots root$_k$ 
+root $_0$ root $_1 \ldots $root$_k$ 
